@@ -3,7 +3,7 @@
 1.Clone Repository
 
    ```bash
-   
+   git clone https://github.com/kousireddy/backendsportstournament
    cd sportstournaments
    ```
 
